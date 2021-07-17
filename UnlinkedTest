@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Test",
+    "description": "TestFile",
+    "fileUrl": "https://www.dropbox.com/s/loa4qdsfsj4xgba/Aptoide%20TV.apk?raw=1",
+    "fileLogoUrl": "https://...."
+  },
+  {
+    "name": "Test2",
+    "description": "TestFile2",
+    "fileUrl": "https://www.dropbox.com/s/38muaz78nnolz69/TROYPOINTv5.0.4.apk?raw=1",
+    "fileLogoUrl": "https://...."
+  }
+]
